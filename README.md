@@ -2,7 +2,7 @@
 
 All notable changes to the RFF feature computation notebook are recorded here.
 
-Baseline: `000_rff-data-calculate_20261005Smorffi原始代码备份.ipynb`  
+Baseline: Raw `Smorff rff-data-calculate.ipynb`  
 Release: `RFF_Data_Calculate.ipynb`
 
 ## v2.0.0, 2026-10-25
